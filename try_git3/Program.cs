@@ -8,6 +8,7 @@ namespace try_git3
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Hello GitHub!");
+            Console.WriteLine("Hello GitHub!");
         }
     }
 }
